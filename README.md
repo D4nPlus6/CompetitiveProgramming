@@ -1,3 +1,3 @@
 # The Counter of Shame
-    Num of Problems Unfinished: 1
-    Num of Problems not Understood: 1
+    No of Unfinished Problems: 1
+    Algorithms Not Understood: 1
