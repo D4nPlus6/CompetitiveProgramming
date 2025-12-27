@@ -15,7 +15,9 @@ Compute the number of positive integers that are less than `10^{maxExponent}` th
 
  `maxExponent < 6767`
 
-## Subtask 3 [1 point]: No additional constraints
+## Subtask 3 [1 point]:
+
+No additional constraints
 
 ## Input Specification
 
