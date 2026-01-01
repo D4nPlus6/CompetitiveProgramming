@@ -1,3 +1,5 @@
+# Competitive Programming
+
 ## Stalk me
 
 [[My Rating]](https://clist.by/coder/DanPlus6/) [[danplus6 on DMOJ]](https://dmoj.ca/user/danplus6) [[DanPlus6 on Leetcode]](https://leetcode.com/u/DanPlus6/)
