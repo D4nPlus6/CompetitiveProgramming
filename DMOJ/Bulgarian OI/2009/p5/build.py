@@ -1,1 +1,1 @@
-with open("Bulgarian OI/2009/p5/prediction.txt","r") as f: print([int(i) for i in f.readlines()])
+with open("Bulgarian OI/2009/p5/troll.txt","r") as f: print([int(i) for i in f.readlines()])
