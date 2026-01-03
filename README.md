@@ -16,4 +16,4 @@
 
 (DMOJ) Solved [first 7p problem](https://dmoj.ca/problem/ccc21j4) - Sept 21, 2025
 
-(DMOJ) Joined DMOJ: began programming with python3, joined Olympiads School ([user:bruce] best teacher!) - Aug/Sept, 2025 (old acc: [user:D4nPlus6])
+(DMOJ) Joined DMOJ: began programming with python3, joined Olympiads School ([Bruce](https://dmoj.ca/user/bruce) best teacher) - Aug/Sept, 2025
