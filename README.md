@@ -6,14 +6,14 @@
 
 ## Coding Timeline
 
-[(DMOJ)](https://dmoj.ca) Merry Christmas! 100 problems solved and top 4k in points! - Dec 25, 2025
+(DMOJ) Merry Christmas! 100 problems solved and top 4k in points! - Dec 25, 2025
 
-[(DMOJ)](https://dmoj.ca) Attended [first contest](https://dmoj.ca/contest/aaaa1)! - Dec 22, 2025
+(DMOJ) Attended [first contest](https://dmoj.ca/contest/aaaa1)! - Dec 22, 2025
 
-[(DMOJ)](https://dmoj.ca) Solved first 10p problem - Dec 13, 2025
+(DMOJ) Solved [first 10p problem](https://dmoj.ca/problem/coci13c5p3) - Dec 13, 2025
 
-[(DMOJ)](https://dmoj.ca) Started coding in C++ - Dec 10, 2025
+(DMOJ) Started coding in C++ - Dec 10, 2025
 
-[(DMOJ)](https://dmoj.ca) Solved first 7p problem - Sept 21, 2025
+(DMOJ) Solved [first 7p problem](https://dmoj.ca/problem/ccc21j4) - Sept 21, 2025
 
-[(DMOJ)](https://dmoj.ca) Joined DMOJ! (old acc: [user:D4nPlus6]) - Aug/Sept, 2025
+(DMOJ) (Joined DMOJ) Began programming with python3, joined Olympiads School ([user:bruce] best teacher!) - Aug/Sept, 2025 (old acc: [user:D4nPlus6])
